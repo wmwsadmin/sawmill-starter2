@@ -49,3 +49,5 @@ fields:
   template: button
   label: Call To Action
   name: call_to_action
+pages:
+- content/test.md
